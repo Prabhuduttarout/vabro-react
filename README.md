@@ -30,3 +30,34 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+
+# Vabro Components
+
+## Common
+  - AvtarChip
+  - Pagination
+
+## Auth Section
+  - AuthLayout
+  - AuthHeader
+  - SignUpForm
+  - AccountCreateCard
+  - LoginForm
+
+## App
+  - AppLayout
+  - AppHedaer
+
+## Workspace
+  - Workspacecard
+
+## Dashboard
+  ### Widget
+    - widgetAccordianCard
+    - widgetItemCard
+    - emptyStateCard
+  ### Project Overview
+    - ProjectOverview
+    - ProjectTableView
+    - PojectCardView
